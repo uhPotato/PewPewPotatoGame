@@ -1,0 +1,4 @@
+# Assign code owners to specific directories or files
+
+# Assign uhPotato as code owners for the 'assets' directory
+/Assets/ @uhPotato
